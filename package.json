@@ -1,0 +1,25 @@
+{
+  "name": "nunjucks-global-uid",
+  "version": "0.0.0",
+  "description": "Nunjucks global to create unique IDs.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "nunjucks",
+    "global",
+    "unique",
+    "id",
+    "uid"
+  ],
+  "author": "Jon Casey (https://github.com/joncasey)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joncasey/nunjucks-global-uid"
+  },
+  "peerDependencies": {
+    "nunjucks": "*"
+  }
+}
