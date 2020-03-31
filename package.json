@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-global-uid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nunjucks global to create unique IDs.",
   "main": "index.js",
   "files": [
